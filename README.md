@@ -1,2 +1,4 @@
 # SnakeGame
- Estudos Java
+
+- Estudos Java
+- Você pode jogar em..
